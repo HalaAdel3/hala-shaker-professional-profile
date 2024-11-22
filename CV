@@ -1,0 +1,154 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Hala Adel Shaker's CV</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            margin: 0;
+            padding: 0;
+            background-color: #f4f4f4;
+            color: #333;
+        }
+        .container {
+            max-width: 800px;
+            margin: 50px auto;
+            background: #fff;
+            padding: 20px;
+            box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+        }
+        h1, h2, h3 {
+            color: #007BFF;
+        }
+        .section {
+            margin-bottom: 20px;
+        }
+        .section-title {
+            border-bottom: 2px solid #007BFF;
+            padding-bottom: 5px;
+            margin-bottom: 10px;
+        }
+        .contact-info {
+            margin-bottom: 20px;
+        }
+        .contact-info p {
+            margin: 5px 0;
+        }
+    </style>
+</head>
+<body>
+    <div class="container">
+        <div class="contact-info">
+            <h1>Hala Adel Shaker</h1>
+            <p>Address: Assiut, Egypt | Phone: +201211867359</p>
+            <p>Email: <a href="mailto:ha934491@gmail.com">ha934491@gmail.com</a> | Website: <a href="http://diverse-dialogues.unaux.com" target="_blank">diverse-dialogues.unaux.com</a></p>
+        </div>
+
+        <div class="section">
+            <h2 class="section-title">Summary</h2>
+            <p>Dynamic content writing professional with over two years of experience in developing SEO-optimized content, scripting, and social media management. Demonstrated success in increasing search engine visibility and engagement through innovative digital marketing strategies. Committed to full-time work with continuous communication during business hours. Proven track record in client management and delivering high-quality, market-focused content.</p>
+        </div>
+
+        <div class="section">
+            <h2 class="section-title">Education</h2>
+            <h3>Assiut University, Faculty of Arts</h3>
+            <p>Department of Oriental Languages (Persian-Turkish)</p>
+            <p>Grade Point Average: B+</p>
+        </div>
+
+        <div class="section">
+            <h2 class="section-title">Experience</h2>
+
+            <h3>Freelance Content Writer</h3>
+            <p>Freelancer on AVa (WordPress)</p>
+            <p>January 2024 - Present</p>
+            <ul>
+                <li>Developed and executed successful SEO strategies, resulting in a 40% increase in organic search traffic for clients.</li>
+                <li>Created engaging scripts for media and advertising projects, enhancing brand visibility and audience engagement.</li>
+                <li>Designed and managed social media content, aligning with marketing strategies and increasing followers by 25%.</li>
+            </ul>
+
+            <h3>Freelance Resume Writer and Designer</h3>
+            <p>Freelancer on Various Platforms</p>
+            <p>2022 - Present</p>
+            <ul>
+                <li>Crafted over 100 ATS-optimized resumes, leading to a 50% increase in client interview rates.</li>
+                <li>Developed targeted marketing and creative content across various industries, contributing to client growth and retention.</li>
+            </ul>
+
+            <h3>Freelance Graphic Designer</h3>
+            <p>Canva</p>
+            <p>2022 - Present</p>
+            <ul>
+                <li>Designed social media posts, banners, and business cards, contributing to enhanced brand identity and visual communication.</li>
+                <li>Created promotional videos and animated content to support marketing campaigns and increase engagement.</li>
+                <li>Developed custom templates and graphics tailored to client needs, ensuring consistency and high-quality visuals.</li>
+            </ul>
+        </div>
+
+        <div class="section">
+            <h2 class="section-title">Training & Courses</h2>
+            <ul>
+                <li>Soft Skills and Employability Skills - McKinsey's Forward</li>
+                <li>Design and Graphic Design - Canva (Online)</li>
+                <li>Translation Skills - Lingua Stochos Foundation</li>
+                <li>Artificial Intelligence and its Tools - Lingua Stochos Foundation</li>
+                <li>ERP Fundamentals</li>
+                <li>Digital Marketing and Social Media Management</li>
+            </ul>
+        </div>
+
+        <div class="section">
+            <h2 class="section-title">Skills</h2>
+
+            <h3>Writing and Editing Skills</h3>
+            <ul>
+                <li>Expertise in SEO-optimized content writing with measurable results</li>
+                <li>Proficient in editing articles and scripts to enhance clarity and engagement</li>
+                <li>Skilled in managing and creating impactful social media content</li>
+            </ul>
+
+            <h3>Design Skills</h3>
+            <ul>
+                <li>Proficient in designing social media posts, banners, business cards, and promotional videos using Canva</li>
+                <li>Experienced in WordPress design and development</li>
+            </ul>
+
+            <h3>Interpersonal and Professional Skills</h3>
+            <ul>
+                <li>Proven ability to lead and collaborate effectively with team members</li>
+                <li>Strong problem-solving skills with a focus on creative solutions</li>
+                <li>Capable of managing high-pressure situations with professionalism and confidence</li>
+            </ul>
+
+            <h3>Technical Skills</h3>
+            <ul>
+                <li>In-depth knowledge of digital marketing tools including Google Analytics, SEO tools, and social media platforms</li>
+                <li>Experienced in conducting keyword research, on-page optimization, link building, and technical SEO</li>
+            </ul>
+        </div>
+
+        <div class="section">
+            <h2 class="section-title">Languages</h2>
+            <ul>
+                <li>Arabic: Native</li>
+                <li>English: Very Good</li>
+                <li>Turkish: Very Good</li>
+                <li>Persian: Very Good</li>
+            </ul>
+        </div>
+
+        <div class="section">
+            <h2 class="section-title">Portfolio</h2>
+            <ul>
+                <li>Social Media Posts (Copywriting): View Samples</li>
+                <li>Scripts: View Samples</li>
+                <li>Design Samples: View Samples</li>
+                <li>Website: <a href="http://diverse-dialogues.unaux.com" target="_blank">diverse-dialogues.unaux.com</a></li>
+            </ul>
+        </div>
+    </div>
+</body>
+</html>
